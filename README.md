@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushantlama&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
 </p>
+![Leetcode Stats](https://leetcode.com/Pleasingjoy/)
