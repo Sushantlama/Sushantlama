@@ -2,7 +2,6 @@
 <h1 >sushant lama</h1>
 <h3 >A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantlama&label=Profile%20views&color=0e75b6&style=flat" alt="sushantlama" /> </p>
 
 
 - 🔭 I’m currently working on [monalisa](https://github.com/Sushantlama/Monalisa)
