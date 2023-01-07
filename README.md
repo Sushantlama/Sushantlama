@@ -5,7 +5,7 @@
 
 # *About me*
 
-*My name is Sushant lama and i am asoftware developer. Currently ,An undergrate student pursuing computer science and engineering at University of Calcutta.*
+*My name is Sushant lama and i am a software developer. Currently ,An undergrate student pursuing computer science and engineering at University of Calcutta.*
 
 # *Stats*
 
