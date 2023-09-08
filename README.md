@@ -1,7 +1,5 @@
 
-<p align="center">
-<img src="https://media.giphy.com/media/105TPTlFrqaW1G/giphy.gif"/>
-</p>
+
 
 # *About me*
 
