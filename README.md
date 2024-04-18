@@ -3,7 +3,7 @@
 
 # *About me*
 
-*My name is Sushant lama and i am a software developer. Currently ,An undergrate student pursuing computer science and engineering at University of Calcutta.*
+*My name is Sushant lama . Currently ,An undergrate student pursuing computer science and engineering at University of Calcutta.*
 
 # *Stats*
 [![sushantlama's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sushantlama&show_icons=true&theme=midnight-purple)](https://github.com/Sushantlama/Sushantlama)
